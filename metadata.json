@@ -1,0 +1,7 @@
+{
+  "name": "KinCare - Elder Daily Routine & Health Companion",
+  "description": "An accessible, senior-friendly daily living companion with large-text medication reminders, hydration alerts, vitals monitoring, and caregiver reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
